@@ -20,7 +20,7 @@
 
 FROM resin/rpi-raspbian
 
-MAINTAINER Jeremie Robert <appydo@gmail.com> version: 0.2
+#MAINTAINER Jeremie Robert <appydo@gmail.com> version: 0.2
 
 # Let the container know that there is no tty
 ENV DEBIAN_FRONTEND noninteractive
